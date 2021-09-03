@@ -1,0 +1,13 @@
+{
+  "ID": "04146A39D4E9417C8FFD200B0EE5E871",
+  "ActionKeyword": "%",
+  "IsGlobal": true,
+  "Name": "Web Search",
+  "Author": "Iseason",
+  "Version": "1.0.2",
+  "Language": "csharp",
+  "Website": "http://www.iseason.top",
+  "ExecuteFileName": "Top.Iseason.PTPlugins.WebSearch.dll",
+  "IcoPathDark": "Images\\uri.dark.png",
+  "IcoPathLight": "Images\\uri.light.png"
+}

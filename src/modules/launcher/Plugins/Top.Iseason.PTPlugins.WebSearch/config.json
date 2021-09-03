@@ -1,0 +1,41 @@
+{
+  "searchers": [
+    {
+      "key": "bd",
+      "name": "百度",
+      "url": "https://www.baidu.com/s?wd={0}",
+      "default": "https://www.baidu.com"
+    },
+    {
+      "key": "bl",
+      "name": "哔哩哔哩",
+      "url": "https://search.bilibili.com/all?keyword={0}",
+      "default": "https://www.bilibili.com"
+    },
+    {
+      "key": "gg",
+      "name": "谷歌",
+      "url": "https://www.google.com/search?q={0}",
+      "default": "https://www.google.com"
+    },
+    {
+      "key": "gt",
+      "name": "Github",
+      "url": "https://github.com/search?q={0}",
+      "default": "https://github.com"
+    },
+    {
+      "key": "by",
+      "name": "必应",
+      "url": "https://cn.bing.com/search?q={0}",
+      "default": "https://cn.bing.com"
+    },
+    {
+      "key": "dd",
+      "name": "DuckDuckGo",
+      "url": "https://duckduckgo.com/?q={0}",
+      "default": "https://duckduckgo.com"
+    }
+
+  ]
+}
