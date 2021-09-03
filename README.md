@@ -1,3 +1,7 @@
+# 本分支为PowerToysRun添加浏览器搜索功能
+
+教程：https://www.bilibili.com/read/cv11426149
+
 # Microsoft PowerToys
 
 <img src="./doc/images/overview/PT%20hero%20image.png"/>
